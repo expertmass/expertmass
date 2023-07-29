@@ -4,7 +4,9 @@
 
 
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 🌱 I’m currently Doing **Summer Training**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **mastermasspk@gmail.com**
 
