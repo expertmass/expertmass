@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate For MERN Stack</h3>
 
 
 
-
-- 🌱 I’m currently learning **Data Structures And Algorithms**
-- 🌱 I’m currently Doing **Summer Training**
-- 🌱 I’m currently learning **Web Development**
-
+- 🌱 I’m currently Doing **My Bechlors**
+- 🌱 I’m currently learning **MERN STACKs**
+- 🌱 Know About**Data Structures And Algorithms**
 - 📫 How to reach me **mastermasspk@gmail.com**
+- 📫 How to reach me **+91 6397520489**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
