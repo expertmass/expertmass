@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/expert_mass_" target="blank">
+  <a href="https://instagram.com/praveenbhardwaj02" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="expert_mass_" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/blogs_here" target="blank">
